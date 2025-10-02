@@ -39,6 +39,13 @@
 			buttonText: 'Explore Center',
 			buttonLink: 'https://policingequity.org/',
 			delay: 500
+		},
+		{
+			title: "Free Law Project - RECAP",
+			description: "Free access to legal documents and court records through the RECAP Archive, promoting transparency in the justice system.",
+			buttonText: 'Access RECAP',
+			buttonLink: 'https://free.law/recap',
+			delay: 550
 		}
 	];
 </script>
